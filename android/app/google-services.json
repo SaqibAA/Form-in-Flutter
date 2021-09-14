@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401733760685",
+    "project_id": "push-notification-d0f42",
+    "storage_bucket": "push-notification-d0f42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401733760685:android:4ea438a26fec3929537824",
+        "android_client_info": {
+          "package_name": "com.example.contractor_registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401733760685-1lak3iqfioffdkj89b96komgec233niq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm6ZPwwH__yRioyvoKnbeA6oAnEJC0QlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401733760685-1lak3iqfioffdkj89b96komgec233niq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
